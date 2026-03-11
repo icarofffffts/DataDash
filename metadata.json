@@ -1,0 +1,5 @@
+{
+  "name": "CSV Dashboard Analytics",
+  "description": "Interactive dashboard for visualizing customer service reports from CSV files.",
+  "requestFramePermissions": []
+}
